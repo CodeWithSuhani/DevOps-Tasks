@@ -10,3 +10,4 @@
 9. rename "file2.txt" to newFile.txt
 
 ### Answers
+<img width="862" height="85" alt="Screenshot From 2025-09-04 22-48-19" src="https://github.com/user-attachments/assets/a5475024-6013-49a3-8f2b-3fd367627e95" />
